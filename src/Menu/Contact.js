@@ -30,7 +30,7 @@ const Contact = () => {
     <>
       <div className="my-6">
         <h1 className="text-center">Contact Us</h1>
-        <div className="row">
+        <div className="filler row">
           <div className="col-md-6 col-10 mx-auto">
             <form onSubmit={formSubmit}>
               <div className="mb-4">

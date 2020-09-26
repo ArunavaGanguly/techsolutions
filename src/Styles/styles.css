@@ -27,7 +27,8 @@
 
 /* ------- Home Page ----------- */
 .header {
-  margin: 9%;
+  margin-top: 7%;
+  margin-bottom: 10%;
 }
 
 .h-text {
@@ -43,6 +44,10 @@
 
 .brand-name {
   color: #3498db;
+}
+
+.top {
+  margin-bottom: 40%;
 }
 
 .btn-get-started {
@@ -86,12 +91,19 @@
 }
 
 .card_image {
-  height: 300px;
-  width: 200px;
+  height: 220px;
+  width: 150px;
 }
 
 .block {
-  height: 500px;
-  width: 350px;
-  text-align: center;
+  height: 420px;
+  width: 250px;
+}
+
+.filler {
+  margin-bottom: 40%;
+}
+
+.srow {
+  margin: 20% 0;
 }
